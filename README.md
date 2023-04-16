@@ -4,7 +4,7 @@
 
 # ![Web Page](https://user-images.githubusercontent.com/108309798/232278747-3143c1b2-f568-41fd-8fe5-e9667e03a36f.png)
 
-# In this project, contented in the link: http://web-page-pi.vercel.app, presents a simple login page that asks the user for a username and password. The project's goal is to demonstrate user and password validation to allow access to the next section of the page.
+In this project, contented in the link: http://web-page-pi.vercel.app, presents a simple login page that asks the user for a username and password. The project's goal is to demonstrate user and password validation to allow access to the next section of the page.
 
 To create this project, JavaScript, ReactJS, HTML, and CSS were used. JavaScript was used to program the login form's functionalities, such as field validation. ReactJS was used as the main framework to create the web page's structure. HTML and CSS were used to define the page's structure and visual style.
 
